@@ -1,0 +1,12 @@
+.rosa, .roxo, .azul{
+    height: 25vh;
+}
+.rosa{
+    background-color: hotpink;
+}
+.roxo{
+    background-color: indigo;
+}
+.azul{
+    background-color: blue;
+}

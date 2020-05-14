@@ -1,0 +1,10 @@
+.geral{
+    background-color: green;
+    text-align: center;
+    border:2px solid black;
+    border-radius: 7px;
+    padding: 50px;
+}
+section{
+    height: 100%;
+}

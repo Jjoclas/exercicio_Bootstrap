@@ -1,0 +1,15 @@
+.rosa, .amarelo, .verde, .laranja{
+    padding: 50px;
+}
+.rosa{
+    background-color: darkmagenta;
+}
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
+.laranja{
+    background-color: orange;
+}
